@@ -1,4 +1,11 @@
 # whenlambo-frontend
-The frontend development of the When Lambo NFT Collection frontend dapp, built on the ethereum blockchain and pushing the limits of web3, virtual reality, and first-of-their-kind NFTs.
 
-whenlambonft.x
+Created from:
+
+## React template with Redux, React-Router, and React-Bootstrap
+
+The frontend development of the When Lambo NFT Collection frontend dapp: whenlambonft.x
+
+Roadmap: Coming Soon
+
+Discord:<https://discord.gg/D385aD9cGj>
